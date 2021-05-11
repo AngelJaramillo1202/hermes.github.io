@@ -1,0 +1,80 @@
+.bg-custom{
+   background-color: #47989c;
+}
+.body2{
+   background-image: url(../img/363.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position-y: -100%;
+}
+.bg-soft{
+   background-color: rgb(59, 59, 59);
+}
+.fondo{
+   z-index: -1;
+}
+.bg-negro{
+   background-color: rgba(0, 0, 0, 0.5);
+} 
+a:hover{
+   background-color: #30575ac2;
+   margin-bottom: 0!important;
+   
+}
+.top-25 {
+   top: 50%!important;
+   height: 70%;
+}
+.tam{
+   height: 70%;
+}
+.col a:hover{
+   background-color: rgba(255, 255, 255, 0);
+}
+#brand{
+   background-color: #47989c;
+}
+
+.bg-carousel{
+   background-color: rgba(0, 0, 0, 0.699);
+   border-radius: 40px;
+}
+.bg-avisos{
+   border-radius: 1px;
+   border-style: solid;
+   border-color: rgba(0, 0, 0, 0.699);
+}
+.bg-bnvd{
+   background-color: rgba(0, 0, 0, 0.699);
+   padding: 1%;
+   border-radius: 5px;
+}
+.w-aviso{
+   width: 40px;
+}
+footer{
+   width: 100%;
+   bottom: 0px;
+}
+
+#external{
+   margin: auto;
+}
+
+#imgbg{
+   z-index: 0;
+   bottom: 3%;
+}
+
+#i1{
+ z-index: 1;
+}
+.position{
+   margin-left: 5%;
+   margin-bottom: 1%;
+
+}
+.position2{
+   left: 25%;
+   bottom: 1%;
+}

@@ -1,0 +1,95 @@
+body{
+    background-image: url(../img/m.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.formulario{
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 30px rgba(0, 0, 0, 0.568);
+ }
+ .form-control{
+ background-color: rgba(0, 0, 0, -0.3);
+ }
+ .boton:hover {
+    background-color: #295052;
+    color: white;
+    transition: o.5s ease-in;
+ }
+ a{
+     color: white;
+ }
+ a:hover{
+     color: rgb(214, 213, 213);
+ }
+ .form-control::placeholder{
+  color: white;
+ }
+ .form-group input{
+     color: white;
+ }
+ .form-control:focus{
+    background-color: rgba(31, 31, 31, 0.3);
+    border-color: rgba(0, 0, 0, 0.3);
+    transition: o.5s ease-in;
+    color:white;
+ }
+ .w-logo{
+     width: 30px;
+ }
+ .wid{
+  width: 95%;
+  margin: auto;
+ }
+ .ingresar{
+    background-color: #30575ac2;
+    color: white;
+    font-weight: 700!important;
+ }
+ .bg-blanco{
+    background-color: rgba(255, 255, 255, 0.829);
+ }
+ .bg-negro{
+    background-color: rgba(0, 0, 0, 0.5);
+ } 
+ .bg-negropaco{
+    background-color: rgb(0, 0, 0);
+    border-radius: 1%;
+ }
+.bg-custom{
+    background-color: #47989c;
+}
+.forgot{
+    color: white;
+    text-decoration: none;
+} 
+.forgot:hover{
+    color: rgb(204, 200, 200);
+}
+.fs{
+    font-size: 14px;
+}
+
+#registro{
+    visibility: hidden;
+}
+.w{
+    width: 15%;
+}
+.left{
+    margin-left: 100%;
+}
+.invert{
+    filter: invert(100%);
+}
+.ver{    
+    top: 50.5%;
+    left: 69%;
+}
+.fondo-boton{
+    background-color: #3a5b5ec2;
+}
+.fondo-boton:hover{
+    
+    background-color: #2e4647c2;
+}
